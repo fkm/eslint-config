@@ -1,0 +1,15 @@
+{
+  "name": "@fkm/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint configuration for personal projects.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkm/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fkm/eslint-config/issues"
+  },
+  "license": "MIT",
+  "author": "Florian Mäder <florian@maederbiel.ch>",
+  "main": "index.js"
+}
