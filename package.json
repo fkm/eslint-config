@@ -6,5 +6,8 @@
   "bugs": "https://github.com/fkm/eslint-config/issues",
   "license": "MIT",
   "author": "Florian Mäder <florian@maederbiel.ch>",
-  "main": "index.js"
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  }
 }
