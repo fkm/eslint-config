@@ -1,16 +1,4 @@
 module.exports = {
-	root: true,
-	parser: '@typescript-eslint/parser',
-	parserOptions: {
-		project: './tsconfig.json',
-		ecmaVersion: 2018,
-		sourceType: 'module',
-	},
-	plugins: [
-		'@typescript-eslint',
-	],
-	extends: [],
-	env: {},
 	rules: {
 		'indent': ['error', 'tab', { 'SwitchCase': 1 }],
 		'linebreak-style': ['error', 'unix'],
@@ -56,4 +44,3 @@ module.exports = {
 		'comma-style': ['error', 'last'],
 	},
 };
-
