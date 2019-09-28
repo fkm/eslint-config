@@ -1,6 +1,9 @@
 module.exports = {
 	rules: {
-		'indent': ['error', 'tab', { 'SwitchCase': 1 }],
+		'indent': ['error', 'tab', {
+			'SwitchCase': 1,
+			'ignoreComments': true,
+		}],
 		'linebreak-style': ['error', 'unix'],
 		'quotes': ['error', 'single'],
 		'semi': ['error', 'always'],
