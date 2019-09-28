@@ -1,7 +1,7 @@
 {
   "name": "@fkm/eslint-config",
   "description": "ESLint configuration for personal projects.",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "repository": "github:fkm/eslint-config",
   "bugs": "https://github.com/fkm/eslint-config/issues",
   "license": "MIT",
