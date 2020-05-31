@@ -16,6 +16,12 @@
   "scripts": {
     "release": "curl https://api.github.com/repos/fkm/eslint-config/dispatches -H \"Authorization: token ${GITHUB_TOKEN}\" -d '{ \"event_type\": \"semantic-release\" }'"
   },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.10.0",
+    "@typescript-eslint/parser": "^2.10.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0"
+  },
   "devDependencies": {
     "@fkm/semantic-release-config": "^1.0.0"
   }
