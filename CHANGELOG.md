@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/fkm/eslint-config/compare/v1.3.0...v1.4.0) (2020-07-26)
+
+
+### Features
+
+* update comma-dangle rule ([8cfa79a](https://github.com/fkm/eslint-config/commit/8cfa79af9c786119ad5d774e6fa76144dd2930df))
+
 # [1.3.0](https://github.com/fkm/eslint-config/compare/v1.2.0...v1.3.0) (2020-06-13)
 
 

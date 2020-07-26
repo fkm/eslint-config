@@ -1,7 +1,7 @@
 {
   "name": "@fkm/eslint-config",
   "description": "ESLint configuration for personal projects.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "main": "index.js",
   "repository": "github:fkm/eslint-config",
   "bugs": "https://github.com/fkm/eslint-config/issues",
