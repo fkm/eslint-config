@@ -42,8 +42,13 @@ module.exports = {
 		'no-trailing-spaces': 'error',
 
 		// Comma
-		'comma-dangle': ['error', 'always-multiline', 'only-multiline'],
 		'comma-spacing': ['error', { 'before': false, 'after': true }],
 		'comma-style': ['error', 'last'],
+		'comma-dangle': ['error', {
+			'arrays': 'always-multiline',
+			'objects': 'always-multiline',
+			'imports': 'always-multiline',
+			'exports': 'always-multiline',
+		}],
 	},
 };
